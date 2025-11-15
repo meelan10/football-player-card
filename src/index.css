@@ -1,0 +1,19 @@
+.card-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 260px;
+  padding: 20px;
+  border-radius: 15px;
+  background: white;
+  text-align: center;
+}
+
+.player-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
