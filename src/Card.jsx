@@ -5,4 +5,4 @@ export default function Card({ player }) {
       <h2>{player.name}</h2>
     </div>
   );
-}#####
+}
