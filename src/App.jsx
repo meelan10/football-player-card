@@ -13,5 +13,5 @@ export default function App() {
         <Card key={p.name} player={p} />
       ))}
     </div>
-  );
+
 }
